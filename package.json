@@ -11,8 +11,7 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "homepage": "https://fyncodeti.github.io/wt-car-convert/",
-    "predeploy": "npm run build",
+    "predeploy": "vite build --base=/wt-car-convert/",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
