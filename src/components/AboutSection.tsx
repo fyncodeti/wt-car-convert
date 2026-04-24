@@ -23,7 +23,7 @@ const AboutSection = () => (
       <SectionHeader
         tag="Sobre nós"
         title="Cuidamos do seu veículo com atenção e compromisso"
-        description="A WT Car Oficina Mecânica é referência em manutenção automotiva, unindo qualidade, transparência e agilidade no atendimento."
+        description="Nossa oficina é referência em manutenção automotiva, unindo qualidade, transparência e agilidade no atendimento."
       />
 
       <div className="grid md:grid-cols-2 gap-8 mb-16">

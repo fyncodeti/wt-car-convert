@@ -64,7 +64,7 @@ const CTAFinalSection = () => (
         >
           <div>
             <h3 className="text-2xl font-bold text-foreground mb-3">
-              Fale com a <span className="text-primary">WT Car</span> agora
+              Fale com a <span className="text-primary">oficina</span> agora
             </h3>
             <p className="text-muted-foreground text-sm leading-relaxed mb-6">
               Entre em contato e traga seu carro para quem entende do assunto. Atendimento rápido e profissional.
