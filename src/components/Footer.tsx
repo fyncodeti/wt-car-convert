@@ -11,9 +11,9 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-black text-sm">WT</span>
+                <Wrench className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="font-bold text-foreground">WT Car</span>
+              <span className="font-bold text-foreground">Oficina Mecânica</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Oficina mecânica profissional com atendimento rápido, transparente e confiável.
@@ -66,7 +66,7 @@ const Footer = () => {
 
         <div className="border-t border-border pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} WT Car Oficina Mecânica. Todos os direitos reservados.
+            © {new Date().getFullYear()} Oficina Mecânica. Todos os direitos reservados.
           </p>
           <button
             onClick={scrollTop}

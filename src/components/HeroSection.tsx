@@ -28,7 +28,7 @@ const HeroSection = () => {
           >
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary/15 text-primary text-sm font-medium mb-6">
               <Wrench className="w-4 h-4" />
-              Oficina Mecânica Profissional | em Londrina, PR
+              Oficina Mecânica Profissional
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-foreground leading-tight mb-6">

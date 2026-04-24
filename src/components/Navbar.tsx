@@ -48,10 +48,10 @@ const Navbar = () => {
         {/* Logo */}
         <button onClick={() => handleClick("#inicio")} className="flex items-center gap-3">
           <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-            <span className="text-primary-foreground font-black text-sm">WT</span>
+            <Wrench className="w-5 h-5 text-primary-foreground" />
           </div>
           <span className="font-bold text-foreground text-sm md:text-base hidden sm:block">
-            WT Car <span className="text-muted-foreground font-normal">Oficina Mecânica</span>
+            Oficina <span className="text-muted-foreground font-normal">Mecânica</span>
           </span>
         </button>
 
