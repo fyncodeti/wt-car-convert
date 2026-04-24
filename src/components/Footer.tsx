@@ -1,4 +1,4 @@
-import { Phone, MessageCircle, MapPin, ArrowUp } from "lucide-react";
+import { Phone, MessageCircle, MapPin, ArrowUp, Wrench } from "lucide-react";
 
 const Footer = () => {
   const scrollTop = () => window.scrollTo({ top: 0, behavior: "smooth" });
