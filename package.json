@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "predeploy": "vite build --base=/wt-car-convert/",
+    "predeploy": "vite build --base=/oficina-mecanica/",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
